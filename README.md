@@ -1,4 +1,4 @@
-## Accessing Openshift Environments
+## Accessing Openshift Environment
 ## Download cli client tools
 ## Deploy applications
 #### Deploy application from docker image
