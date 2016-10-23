@@ -1,3 +1,5 @@
+## Summary of activities
+![Workshop Image](https://raw.githubusercontent.com/debianmaster/openshift-workshop/master/Workshop.png)
 ## Accessing Openshift Environment
 ## Download cli client tools
 ## Deploy applications
