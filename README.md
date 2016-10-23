@@ -16,5 +16,6 @@
 ## Scale applications
 
 
-
+## Pre-Req
+https://curl.haxx.se/download.html
 
