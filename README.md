@@ -23,7 +23,7 @@
 ## A/B Deployments
 ## B/G Deployments
 ## Canary Deployments
-
+## CI/CD
 
 ## Pre-Req
 https://curl.haxx.se/download.html
