@@ -1,9 +1,11 @@
 ## Summary of activities
 ![Workshop Image](https://raw.githubusercontent.com/debianmaster/openshift-workshop/master/Workshop.png)
 
-## Accessing Openshift Environment
+## Agenda
+## Intros to Docker , Kubernetes  and Openshift
 ## Download cli client tools
 ## Local openshift cluster setup
+## Accessing Openshift Environment
 ## Deploy applications
 #### Deploy application using templates (jenkins)
 #### Deploy application from Docker image  (mysql)
