@@ -24,6 +24,9 @@
 ## B/G Deployments
 ## Canary Deployments
 ## CI/CD
-
+## Cluster Management
+### Maintenance
+### Node Selector
+### Service accounts
 ## Pre-Req
 https://curl.haxx.se/download.html
